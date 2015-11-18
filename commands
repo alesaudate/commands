@@ -2,6 +2,7 @@ ember https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
 npm https://raw.githubusercontent.com/alesaudate/commands/master/ember.bash
 sqldeveloper https://raw.githubusercontent.com/alesaudate/commands/master/sqldeveloper.bash
 oracle-xe https://raw.githubusercontent.com/alesaudate/commands/master/oracle-xe.bash
+oraclexe https://raw.githubusercontent.com/alesaudate/commands/master/oracle-xe.bash
 clean-all https://raw.githubusercontent.com/alesaudate/commands/master/clean-all.bash
 java https://raw.githubusercontent.com/alesaudate/commands/master/java.bash
 dominio12c https://raw.githubusercontent.com/alesaudate/commands/master/dominio12c.bash
