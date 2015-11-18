@@ -1,1 +1,1 @@
-mkdir -p ~/weblogic12c/logs && sudo chmod 777 -R ~/weblogic12c/logs && docker run -i -v ~/weblogic12c:/opt/oracle/wlsdomains -v ~/weblogic12c/logs:/var/log/weblogic -e USER=$USER -e TZ=+03:00 --link db -p 7001:7001 -p 8001:8001 -p 8011:8011 sciensa2/soasuite12c
+mkdir -p ~/weblogic12c/logs && sudo chmod 777 -R ~/weblogic12c/logs && docker run -i -v ~/weblogic12c:/opt/oracle/wlsdomains -v ~/weblogic12c/logs:/var/log/weblogic -e USER=$USER -e TZ=+03:00 --link db --link nodemanager -p 7001:7001 -p 8001:8001 -p 8011:8011 sciensa2/soasuite12c
