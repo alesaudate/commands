@@ -5,3 +5,4 @@ oracle-xe https://raw.githubusercontent.com/alesaudate/commands/master/oracle-xe
 stop-containers https://raw.githubusercontent.com/alesaudate/commands/master/stop.bash
 java https://raw.githubusercontent.com/alesaudate/commands/master/java.bash
 dominio12c https://raw.githubusercontent.com/alesaudate/commands/master/dominio12c.bash
+soasuite12c https://raw.githubusercontent.com/alesaudate/commands/master/soasuite12c.bash
