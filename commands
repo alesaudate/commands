@@ -6,3 +6,4 @@ stop-containers https://raw.githubusercontent.com/alesaudate/commands/master/sto
 java https://raw.githubusercontent.com/alesaudate/commands/master/java.bash
 dominio12c https://raw.githubusercontent.com/alesaudate/commands/master/dominio12c.bash
 soasuite12c https://raw.githubusercontent.com/alesaudate/commands/master/soasuite12c.bash
+nodemanager https://raw.githubusercontent.com/alesaudate/commands/master/nodemanager.bash
