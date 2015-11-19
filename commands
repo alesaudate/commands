@@ -7,3 +7,4 @@ clean-all https://raw.githubusercontent.com/alesaudate/commands/master/clean-all
 java https://raw.githubusercontent.com/alesaudate/commands/master/java.bash
 dominio12c https://raw.githubusercontent.com/alesaudate/commands/master/dominio12c.bash
 soasuite12c https://raw.githubusercontent.com/alesaudate/commands/master/soasuite12c.bash
+soaserver https://raw.githubusercontent.com/alesaudate/commands/master/soaserver.bash
