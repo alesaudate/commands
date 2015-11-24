@@ -1,1 +1,1 @@
-echo "echo 'Oi'"
+echo uname -a
