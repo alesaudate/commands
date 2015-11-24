@@ -1,1 +1,1 @@
-echo uname -a
+"uname" | awk '{print $0}'
