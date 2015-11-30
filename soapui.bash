@@ -1,5 +1,5 @@
 sudo xhost + && \
-docker run -ti --rm \
+docker start soapui > /dev/null 2>&1  || docker run -ti --rm \
     -e DISPLAY=$DISPLAY  \
     -e LANG=pt_BR.UTF-8 \
     --privileged \
