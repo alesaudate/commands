@@ -6,6 +6,6 @@ docker run -ti --rm \
     --name=soapui  \
     -v ~/soapui:/data \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
-    -p 9090:8080 \
+    -p 8088:8088 \
     -w /data \
     wolfitem/soapui
